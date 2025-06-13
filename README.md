@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"># 👋 Hi there! I'm Neeraj Chauhan
+
+🚀 I’m a passionate **Software Developer** with a love for building clean, scalable, and efficient web applications.  
+💻 Tech Enthusiast | Full Stack Developer | Problem Solver  
+🌐 Working on exciting MERN stack projects and DSA every day.  
+📚 I believe in continuous learning and sharing knowledge with the community.  
+🎯 Currently leveling up in **System Design** and **Open Source** collaboration.  
+🌱 Learning something new every day — right now, it's **Next.js** and **TypeScript**!  
+📬 Let’s connect and build something awesome together!  
+
+> 🌟 *“Code is like humor. When you have to explain it, it’s bad.”*  
+.</h2>
 
 ###
 
