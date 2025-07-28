@@ -10,6 +10,8 @@
 <h3 >📬 Fun fact: AI Won't replace software developers</h3>
 - 👨‍💻 All of my projects are available at [https://scintillating-sunburst-b5255f.netlify.app](https://scintillating-sunburst-b5255f.netlify.app)
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-chauhan12&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-chauhan12" /> </p>
 
 
