@@ -6,7 +6,7 @@
 <h3>A passionate frontend developer from India</h3>
 <h3>🌐 I'm looking to upskill myself </h3>
 <h3>🌱 I'm currently learning Web Dev & DSA </h3>
-<h3>🎯 Ask me about Cricket & progrmming </h3>
+<h3>🎯 Ask me about Cricket & programming </h3>
 <h3 >📬 Fun fact: AI Won't replace software developers</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-chauhan12&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-chauhan12" /> </p>
