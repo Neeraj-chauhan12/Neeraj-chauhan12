@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **dsa & real time application**
 
-- 👯 I’m looking to collaborate on [Real time chatBot](https://gemini-1-8oo0.onrender.com)
+- 👯 I’m looking to collaborate on [Real time chatApp](https://chat-app-1-69ks.onrender.com)
 
 - 🤝 I’m looking for help with [Social media web](https://social-media-web-wqqx.onrender.com)
 
