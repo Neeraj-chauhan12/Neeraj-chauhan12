@@ -19,8 +19,7 @@
 ---
 
 # About Me
-
-Results-driven Full Stack Developer with internship experience at Unified Mentor Pvt. Ltd. specializing in the MERN Stack. Experienced in building scalable REST APIs, authentication systems, real-time applications, and production-ready web platforms.
+Full Stack Developer with internship experience at Unified Mentor Pvt. Ltd. specializing in the MERN Stack. Experienced in building scalable REST APIs, authentication systems, real-time applications, and production-ready web platforms.
 
 ### Open To
 - Software Engineer
