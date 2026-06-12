@@ -1,3 +1,160 @@
+# Neeraj Chauhan
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Neeraj%20Chauhan&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h3 align="center">Full Stack Developer (MERN) | Software Engineer | Open Source Enthusiast</h3>
+
+---
+
+## About Me
+
+Full-Stack Developer with internship experience at Unified Mentor Pvt. Ltd. specializing in the MERN stack. Experienced in building scalable REST APIs, JWT authentication systems, real-time applications using Socket.io, and production-ready web applications.
+
+### Open To
+- Software Engineer Roles
+- Full Stack Developer Roles
+- Backend Developer Roles
+- Open Source Collaboration
+
+---
+
+## Tech Stack
+
+### Languages
+JavaScript • Java • C++
+
+### Frontend
+React.js • Redux Toolkit • Tailwind CSS • HTML5 • CSS3
+
+### Backend
+Node.js • Express.js • REST APIs • Socket.io • JWT • Bcrypt.js
+
+### Database
+MongoDB • Mongoose ODM
+
+### DevOps & Tools
+Docker • Git • GitHub • GitHub Actions • CI/CD • Postman • Netlify • Render • Cloudinary
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| AI Integration | Intermediate | Google Gemini API Integration |
+| Prompt Engineering | Intermediate | AI-powered applications |
+| Automation | Intermediate | Productivity workflows |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Full Stack Social Media Platform</b></summary>
+
+Built a complete social networking platform using MERN stack.
+
+| Category | Details |
+|-----------|---------|
+| Stack | React.js, Node.js, Express.js, MongoDB |
+| Security | JWT, Bcrypt.js |
+| Media | Cloudinary |
+| Impact | 500+ test accounts |
+| Features | Posts, Likes, Profiles, Authentication |
+
+</details>
+
+<details>
+<summary><b>Real-Time Chat Application</b></summary>
+
+Real-time messaging platform powered by Socket.io.
+
+| Category | Details |
+|-----------|---------|
+| Stack | React.js, Node.js, Express.js, MongoDB |
+| Realtime | Socket.io |
+| Security | JWT Authentication |
+| Scale | 200+ concurrent users |
+| Performance | <100ms latency |
+
+</details>
+
+---
+
+## Experience
+
+### Full Stack Developer Intern — Unified Mentor Pvt Ltd
+**Jul 2025 – Dec 2025**
+
+- Developed 30+ RESTful APIs using Node.js and Express.js
+- Improved response time by optimizing MongoDB queries
+- Implemented JWT authentication and role-based access control
+- Built full-stack React.js modules integrated with backend APIs
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| GUVI HCL Hackathon | Rank 18 among 1600+ teams |
+| LeetCode | Solved 250+ DSA Problems |
+| MERN Development | Built production-grade applications |
+
+---
+
+## Coding Profiles
+
+- LeetCode: https://leetcode.com/u/Neeraj264/
+- GitHub: https://github.com/Neeraj-chauhan12
+- LinkedIn: https://linkedin.com/in/neeraj264/
+
+---
+
+## GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Neeraj-chauhan12&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-chauhan12&layout=compact)
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - TypeScript
+  - Advanced Backend Development
+
+Building:
+  - MERN Applications
+  - Scalable APIs
+
+Exploring:
+  - Docker
+  - CI/CD
+  - Cloud Technologies
+
+OpenTo:
+  - Full Time Opportunities
+  - Open Source Projects
+```
+---
+
+## Connect
+
+- Email: nc1676639@gmail.com
+- LinkedIn: linkedin.com/in/neeraj264
+- GitHub: github.com/Neeraj-chauhan12
+
+---
+
+> Building scalable applications and solving real-world problems through software engineering.
+
+
+
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
