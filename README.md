@@ -133,16 +133,6 @@ Socket.io powered messaging platform.
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/u/Neeraj264/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge"/></a>
-</p>
-
----
-
 # GitHub Analytics
 
 <p align="center">
