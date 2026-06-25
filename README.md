@@ -133,22 +133,6 @@ Socket.io powered messaging platform.
 
 ---
 
-# Certifications
-
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
-
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Developer-red?style=for-the-badge)
-
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-success?style=for-the-badge)
-
----
-
 # Coding Profiles
 
 <p align="center">
