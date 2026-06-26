@@ -166,16 +166,6 @@ Socket.io powered messaging platform.
 
 ---
 
-# Contribution Snake
-
-```yaml
-Enable using GitHub Actions:
-Platane/snk
-Generate contribution snake animation
-```
-
----
-
 # Current Focus
 
 ```yaml
